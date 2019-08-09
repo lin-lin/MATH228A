@@ -1,9 +1,9 @@
-# UC Berkeley Math 228A, Fall 2018
+# UC Berkeley Math 228A, Fall 2019
 
 This is a repository for the course [Math 228A: Numerical Solution of
 Differential
 Equations](https://math.berkeley.edu/courses/fall-2018-math-228a-001-lec)
-in Fall 2018 (See also the [bCourses
+in Fall 2019 (See also the [bCourses
 page](https://bcourses.berkeley.edu/courses/1473362) for administrative
 information.)
 
