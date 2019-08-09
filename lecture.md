@@ -1,4 +1,4 @@
-# Fall 2018 228A Lecture notes 
+# Fall 2019 228A Lecture notes 
 
 Recommended Textbook (you DO NOT need to buy them)
 
