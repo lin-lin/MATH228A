@@ -29,7 +29,6 @@ Introducing Julia.
 
 [Handout slides](others/228A_Note_general.pdf)
 
-
 **Note**: v0.7 and v1.0 released on 8/8/2018 introduces many breaking
 changes. So there is a bit learning curve if you are somewhat familiar
 with previous versions of Julia before. I compiled a few things below I
