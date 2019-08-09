@@ -13,4 +13,3 @@ o [Lecture notes](lecture.md)
 
 Assignments and assignment solutions will be posted here on bCourses.
 
-
