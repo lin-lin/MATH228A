@@ -27,13 +27,17 @@ Office Hours: Tue 3:30PM-4:30PM Evans 1083
 
 **[Wil]** J. Wilkening, Lecture notes Math 228A Fall 2007 [(pdf)](https://math.berkeley.edu/~linlin/2015Fall_228A/wilkening_228A_notes.pdf)
 
-
+[General information of the class (pdf)](lectures/228A_Note_general.pdf)
 
 ## Lecture 1 (8/29)
 
 General discussion on ordinary differential equations.
 
 Introducing Julia. 
+
+[Lecture note 1 (pdf)](lectures/Lec1.pdf)
+
+**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
 
 
@@ -44,12 +48,14 @@ Introducing Julia.
 ### How to install Julia
 
 1. Download the binary file (**version 1.2, used in this class**)
+   
    (Linux): https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz
    
-   (Windows) https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.exe
+
+(Windows) https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.exe
 
    (Mac) https://julialang-s3.julialang.org/bin/mac/x64/1.2/julia-1.2.0-mac64.dmg
-   
+
 2. Untar / install
 
 3. Run (e.g. Linux)
@@ -297,17 +303,13 @@ Here are a few other online documents.
 
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/julia/)
 
-[The Julia Express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
+[The Julia Express (pdf)](http://bogumilkaminski.pl/files/julia_express.pdf)
 
 [MATLAB–Python–Julia cheatsheet](https://cheatsheets.quantecon.org/)
 
 [Julia user manual](https://docs.julialang.org/)
 
 
-
-General discussion on ordinary differential equations.
-
-**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
 
 ## Lecture 2 (9/3)
 
