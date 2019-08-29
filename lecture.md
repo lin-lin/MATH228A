@@ -45,9 +45,11 @@ Introducing Julia.
 
 1. Download the binary file (**version 1.2, used in this class**)
    (Linux): https://julialang-s3.julialang.org/bin/linux/x64/1.2/julia-1.2.0-linux-x86_64.tar.gz
+   
    (Windows) https://julialang-s3.julialang.org/bin/winnt/x64/1.2/julia-1.2.0-win64.exe
-   (Mac) https://julialang-s3.julialang.org/bin/mac/x64/1.2/julia-1.2.0-mac64.dmg
 
+   (Mac) https://julialang-s3.julialang.org/bin/mac/x64/1.2/julia-1.2.0-mac64.dmg
+   
 2. Untar / install
 
 3. Run (e.g. Linux)
@@ -303,16 +305,16 @@ Here are a few other online documents.
 
 
 
+General discussion on ordinary differential equations.
+
+**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
+
+## Lecture 2 (9/3)
+
 ### DifferentialEquations.jl
 
 The [DifferentialEquations](http://docs.juliadiffeq.org/) package can be a useful tool in this class for checking the accuracy of your solution, learning more advanced solvers, and comparing for performance of different solvers.
 
 It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/ode_example.html) section, and I also recommend this [Youtube video](https://www.youtube.com/watch?v=KPEqYtEd-zY&feature=youtu.be) given by the developer [Chris Rackauckas](http://chrisrackauckas.com/) on the basics of numerical ODEs, together with some useful practical programming skills (such as avoiding the allocation of large arrays, broadcast etc) that will not be covered in detail in this class. There is also an [accompanying notebook](http://tutorials.juliadiffeq.org/html/introduction/01-ode_introduction.html).
 
-[Notebook: Overview of integrators sing DifferentialEquations.jl ](notebooks/Overview.ipynb) 
-
-## Lecture 2 (9/3)
-
-General discussion on ordinary differential equations.
-
-**Reading**: [LeV] 5.1, 5.2 [Hai] I.7,I.8
+[Notebook: Overview of integrators using DifferentialEquations.jl ](notebooks/Overview.ipynb) 
