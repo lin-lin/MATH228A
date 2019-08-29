@@ -193,12 +193,6 @@ You might also find it handy to have the cheat sheets for
 
 
 
-### DifferentialEquations.jl
-
-The [DifferentialEquations](http://docs.juliadiffeq.org/) package can be a useful tool in this class for checking the accuracy of your solution, learning more advanced solvers, and comparing for performance of different solvers.
-
-It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/ode_example.html) section, and I also recommend this [Youtube video](https://www.youtube.com/watch?v=KPEqYtEd-zY&feature=youtu.be) given by the developer [Chris Rackauckas](http://chrisrackauckas.com/) on the basics of numerical ODEs, together with some useful practical programming skills (such as avoiding the allocation of large arrays, broadcast etc) that will not be covered in detail in this class. There is also an [accompanying notebook](http://tutorials.juliadiffeq.org/html/introduction/01-ode_introduction.html).
-
 
 
 ### If you have used Julia v0.6 (or earlier versions) but not v0.7+
@@ -308,6 +302,14 @@ Here are a few other online documents.
 [Julia user manual](https://docs.julialang.org/)
 
 
+
+### DifferentialEquations.jl
+
+The [DifferentialEquations](http://docs.juliadiffeq.org/) package can be a useful tool in this class for checking the accuracy of your solution, learning more advanced solvers, and comparing for performance of different solvers.
+
+It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/ode_example.html) section, and I also recommend this [Youtube video](https://www.youtube.com/watch?v=KPEqYtEd-zY&feature=youtu.be) given by the developer [Chris Rackauckas](http://chrisrackauckas.com/) on the basics of numerical ODEs, together with some useful practical programming skills (such as avoiding the allocation of large arrays, broadcast etc) that will not be covered in detail in this class. There is also an [accompanying notebook](http://tutorials.juliadiffeq.org/html/introduction/01-ode_introduction.html).
+
+[Notebook: Overview of integrators sing DifferentialEquations.jl ](notebooks/Overview.ipynb) 
 
 ## Lecture 2 (9/3)
 
