@@ -93,7 +93,7 @@ julia>
 Now press ] to enter the package mode
 
 ```bash
-(v1.2) pkg> update
+(v1.2) pkg> update; precompile
   Updating registry at `~/.julia/registries/General`
   Updating git-repo `https://github.com/JuliaRegistries/General.git`
   Updating git-repo `https://github.com/JuliaPy/Conda.jl.git`
@@ -101,19 +101,14 @@ Now press ] to enter the package mode
   Updating git-repo `https://github.com/JuliaPy/PyCall.jl.git`
   Updating git-repo `https://github.com/JuliaPy/PyPlot.jl.git`
  Resolving package versions...
-  Updating `~/.julia/environments/v1.1/Project.toml`
-  [7d9fca2a] ↑ Arpack v0.3.0 ⇒ v0.3.1
-  [8f4d0f93] ↑ Conda v1.1.1+ #master (https://github.com/JuliaPy/Conda.jl.git) ⇒ v1.3.0 #master (https://github.com/JuliaPy/Conda.jl.git)
-  [7a1cc6ca] ↑ FFTW v0.2.4 ⇒ v0.3.0
-  [14197337] ↑ GenericLinearAlgebra v0.0.0 #master (https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl) ⇒ v0.1.0+ #master (https://github.com/JuliaLinearAlgebra/GenericLinearAlgebra.jl)
-  [7073ff75] ↑ IJulia v1.14.1 ⇒ v1.19.0
-  [42fd0dbc] ↑ IterativeSolvers v0.7.1 ⇒ v0.8.1
-  [c030b06c] ↑ ODE v2.3.0 ⇒ v2.4.0
-  [d96e819e] ↑ Parameters v0.10.2 ⇒ v0.11.0
-  [f27b6e38] ↑ Polynomials v0.5.1 ⇒ v0.5.2
-  [438e738f] ↑ PyCall v1.18.5+ #master (https://github.com/JuliaPy/PyCall.jl.git) ⇒ v1.91.2 #master (https://github.com/JuliaPy/PyCall.jl.git)
-  [d330b81b] ↑ PyPlot v2.6.3+ #master (https://github.com/JuliaPy/PyPlot.jl.git) ⇒ v2.8.1+ #master (https://github.com/JuliaPy/PyPlot.jl.git)
-
+ Installed Distances ────── v0.8.2
+ Installed NLSolversBase ── v7.4.1
+ Installed IJulia ───────── v1.20.0
+ Installed MbedTLS ──────── v0.7.0
+ Installed BandedMatrices ─ v0.10.1
+ Installed DataFrames ───── v0.19.3
+ Installed OrdinaryDiffEq ─ v5.15.0
+...
 ```
 
 Now your previously installed package should be ready to be used. For example, try `Arpack` (solving sparse eigenvalue problems)
@@ -176,6 +171,7 @@ You might also find it handy to have the cheat sheets for
   - Update the package list: `]update` 
   - **Update and precompile** (otherwise the precompilation process will occur when you execute `using package` for the first time) :
      `]update; precompile`
+  - Build a package (some packages need to be built before used): `]build packagename` 
 
 
 
@@ -299,7 +295,7 @@ First of all,  Julia v0.7 (released 08/2018, equivalent to v1.0 other than addit
 
 Here is a notebook introducing some basic features of Julia.
 
-[Notebook: Julia tutorial](notebooks/Basics.ipynb) Last update: 8/10/2019
+[Notebook: Julia tutorial](notebooks/Basics.ipynb) Last update: 8/28/2019
 
 Here are a few other online documents.
 
