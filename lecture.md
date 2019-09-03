@@ -325,7 +325,7 @@ It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/
 
 Lipschitz continuity; Euler's method
 
-[Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/ForwardEuler.ipynb)
+[Notebook: Forward Euler method](notebooks/ForwardEuler.ipynb)
 
 **Reading**: [Wil] pp 26-30, 41-44 
 
