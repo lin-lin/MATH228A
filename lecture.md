@@ -320,3 +320,21 @@ The [DifferentialEquations](http://docs.juliadiffeq.org/) package can be a usefu
 It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/ode_example.html) section, and I also recommend this [Youtube video](https://www.youtube.com/watch?v=KPEqYtEd-zY&feature=youtu.be) given by the developer [Chris Rackauckas](http://chrisrackauckas.com/) on the basics of numerical ODEs, together with some useful practical programming skills (such as avoiding the allocation of large arrays, broadcast etc) that will not be covered in detail in this class. There is also an [accompanying notebook](http://tutorials.juliadiffeq.org/html/introduction/01-ode_introduction.html).
 
 [Notebook: Overview of integrators using DifferentialEquations.jl ](notebooks/Overview.ipynb) 
+
+
+
+Lipschitz continuity; Euler's method
+
+[Notebook: Forward Euler method](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/ForwardEuler.ipynb)
+
+**Reading**: [Wil] pp 26-30, 41-44 
+
+[![](http://img.youtube.com/vi/v-pbGAts_Fg/0.jpg)](https://www.youtube.com/watch?v=v-pbGAts_Fg)
+
+Why we should study Euler's method: Euler's Method scene in Hidden Figures
+
+## Lecture 3 (9/5)
+
+Convergence of Euler's method
+
+**Reading**: [LeV] 6.1-6.3
