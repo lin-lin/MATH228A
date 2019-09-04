@@ -325,6 +325,8 @@ It has a nicely written [tutorial](http://docs.juliadiffeq.org/latest/tutorials/
 
 Lipschitz continuity; Euler's method
 
+[Lecture note 2 (pdf)](lectures/Lec2.pdf)
+
 [Notebook: Forward Euler method](notebooks/ForwardEuler.ipynb)
 
 **Reading**: [Wil] pp 26-30, 41-44 
@@ -337,4 +339,6 @@ Why we should study Euler's method: Euler's Method scene in Hidden Figures
 
 Convergence of Euler's method
 
-**Reading**: [LeV] 6.1-6.3
+Adams-Bashforth method and Adams-Moulton method
+
+**Reading**: [LeV] 6.1-6.3, [LeV] 5.3-5.6 [Ise] 1.2-1.4
