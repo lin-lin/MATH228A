@@ -337,8 +337,19 @@ Why we should study Euler's method: Euler's Method scene in Hidden Figures
 
 ## Lecture 3 (9/5)
 
+[Lecture note 3 (pdf)](lectures/Lec3.pdf)
+
 Convergence of Euler's method
+
+Second order Taylor method
+
+**Reading**: [LeV] 6.1-6.3, [LeV] 5.3-5.6 [Ise] 1.2-1.4
+
+
+
+## Lecture 4 (9/7)
+
+
 
 Adams-Bashforth method and Adams-Moulton method
 
-**Reading**: [LeV] 6.1-6.3, [LeV] 5.3-5.6 [Ise] 1.2-1.4
