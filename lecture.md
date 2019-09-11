@@ -347,9 +347,16 @@ Second order Taylor method
 
 
 
-## Lecture 4 (9/7)
-
-
+## Lecture 4 (9/10)
 
 Adams-Bashforth method and Adams-Moulton method
 
+Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
+
+[Lecture note 4 (pdf)](lectures/Lec4.pdf)
+
+**Reading**: [Ise] 2.1; [Hai] III.1
+
+[Tobias von Petersdorff's notes on contraction mapping (with some numerics)](others/ContractionMapping.pdf)
+
+## 
