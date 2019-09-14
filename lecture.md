@@ -355,8 +355,15 @@ Convergence of trapezoidal rule; Fixed point problem and fixed point iteration
 
 [Lecture note 4 (pdf)](lectures/Lec4.pdf)
 
-**Reading**: [Ise] 2.1; [Hai] III.1
+**Reading**: [Ise] 2.1 (Adams method); [Hai] III.1 (Multistep method)
 
 [Tobias von Petersdorff's notes on contraction mapping (with some numerics)](others/ContractionMapping.pdf)
 
-## 
+## Lecture 5 (9/12)
+
+Consistency of linear multistep method.  Adaptive time stepping. 
+
+[Lecture note 5 (pdf)](lectures/Lec5.pdf)
+
+**Reading**: [Ise] 2.2 (Consistency of AB/AM) ; 6.1-6.2 (Milne device)
+
