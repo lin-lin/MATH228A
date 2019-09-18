@@ -369,7 +369,7 @@ Consistency of linear multistep method.  Adaptive time stepping.
 
 ## Lecture 6 (9/17)
 
-[Notebook: Zero stability of LMM](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/LMM.ipynb)
+[Notebook: Zero stability of LMM](notebooks/LMM.ipynb)
 
 [Details of the proof of general convergence theory of LMM (pdf)](lectures/LMMConvergence.pdf)
 
