@@ -367,3 +367,14 @@ Consistency of linear multistep method.  Adaptive time stepping.
 
 **Reading**: [Ise] 2.2 (Consistency of AB/AM) ; 6.1-6.2 (Milne device)
 
+## Lecture 6 (9/17)
+
+[Notebook: Zero stability of LMM](http://nbviewer.jupyter.org/github/lin-lin/2018Fall_228A/blob/master/notebooks/LMM.ipynb)
+
+[Details of the proof of general convergence theory of LMM (pdf)](lectures/LMMConvergence.pdf)
+
+[Lecture note 6 (pdf)](lectures/Lec6.pdf)
+
+Zero stability of LMM; Convergence of general LMM
+
+**Reading**: [LeV] 6.1-6.4 (Zero stability); [Hai] III.3-4 (Zero stability, first Dahlquist theorem); [Wil] pp 61-77 (Convergence of LMM)
