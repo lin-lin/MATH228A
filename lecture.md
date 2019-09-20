@@ -378,3 +378,21 @@ Consistency of linear multistep method.  Adaptive time stepping.
 Zero stability of LMM; Convergence of general LMM
 
 **Reading**: [LeV] 6.1-6.4 (Zero stability); [Hai] III.3-4 (Zero stability, first Dahlquist theorem); [Wil] pp 61-77 (Convergence of LMM)
+
+
+
+## Lecture 7 (9/19)
+
+[Lecture note 7 (pdf)](lectures/Lec7.pdf)
+
+Runge-Kutta method. Consistency of Runge-Kutta method. Taylor expansion.
+
+**Reading**: [Ise] 3.1-3.3. [Hai] II.2 (Order Conditions for Runge-Kutta)
+
+
+
+## Lecture 8 (9/24)
+
+Consistency of Runge-Kutta method. Diagram method. Zero stability of Runge-Kutta method. 
+
+**Reading**: [Wil] pp 95-107. [Hai] II.3 (Convergence of Runge-Kutta)
