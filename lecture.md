@@ -393,6 +393,10 @@ Runge-Kutta method. Consistency of Runge-Kutta method. Taylor expansion.
 
 ## Lecture 8 (9/24)
 
+[Handout for order condition of Runge-Kutta method (pdf)](lectures/RKOrderCondition.pdf)
+
+[Notebook: Check the order condition of GL2](notebooks/RKOrderCondition.ipynb)
+
 Consistency of Runge-Kutta method. Diagram method. 
 
 **Reading**: [Wil] pp 95-107. 
