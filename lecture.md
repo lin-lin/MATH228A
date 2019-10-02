@@ -393,6 +393,28 @@ Runge-Kutta method. Consistency of Runge-Kutta method. Taylor expansion.
 
 ## Lecture 8 (9/24)
 
-Consistency of Runge-Kutta method. Diagram method. Zero stability of Runge-Kutta method. 
+Consistency of Runge-Kutta method. Diagram method. 
 
-**Reading**: [Wil] pp 95-107. [Hai] II.3 (Convergence of Runge-Kutta)
+**Reading**: [Wil] pp 95-107. 
+
+## Lecture 9 (9/26)
+
+Embedded Runge-Kutta method. Zero stability of Runge-Kutta method. 
+
+**Reading**: [Ise] 6.3 (Embedded Runge-Kutta). [Hai] II.3 (Convergence of Runge-Kutta)
+
+## Lecture 10 (10/1)
+
+Absolute stability, LMM
+
+[Notebook: Stability region](notebooks/StabilityRegion.ipynb)
+
+[Lecture note 10 (pdf)](lectures/Lec10.pdf)
+
+**Reading**: [LeV] 7.1-7.4 (Absolute stability)
+
+## Lecture 11 (10/3)
+
+Absolute stability, Runge-Kutta method
+
+**Reading**: [LeV] 7.5-7.7 (Plotting region of absolute stability) 
