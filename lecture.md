@@ -425,7 +425,7 @@ Absolute stability, Runge-Kutta method; Stiff equations
 
 [Lecture note 11 (pdf)](lectures/Lec11.pdf)
 
-**Reading**: [LeV] 7.5-7.7 (Plotting region of absolute stability); [LeV] 8.1-8.3 (Stiff equations). [Ise] 4.1-4.4 (Stiff equations).
+**Reading**: [LeV] 7.5-7.7 (Plotting region of absolute stability); [Ise] 4.1-4.4 (Stiff equations).
 
 
 
@@ -433,5 +433,7 @@ Absolute stability, Runge-Kutta method; Stiff equations
 
 Stiff equations
 
-**Reading**: [LeV] 8.1-8.3. [Ise] 4.1. [Hai] IV.1. 
+[Lecture note 12 (pdf)](lectures/Lec12.pdf)
+
+**Reading**: [LeV] 8.1-8.3. (Stiff equations). [Hai] IV.1. 
 
