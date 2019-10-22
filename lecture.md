@@ -437,3 +437,36 @@ Stiff equations
 
 **Reading**: [LeV] 8.1-8.3. (Stiff equations). [Hai] IV.1. 
 
+## Lecture 13 (10/10)
+
+Canceled due to PG&E shutdown
+
+## Lecture 14 (10/15)
+
+Nonlinear equations. 
+
+**Reading**: [Ise] 7.1-7.3 (Solving nonlinear algebraic systems)
+
+[Notebook: Nonlinear equations](notebooks/NonlinearEquations.ipynb)
+
+## Lecture 15 (10/17)
+
+Nonlinear equations. 
+
+## Lecture 16 (10/22)
+
+Hamiltonian system. 
+
+**Reading**:  [Ise] 5.4.
+
+[Notebook: Symplectic integrator](notebooks/Symplectic.ipynb)
+
+[Lecture Note 16 (pdf)](lectures/228A_Lec16.pdf)
+
+Some excellent reading materials given by Ernst Hairer:
+
+https://www.unige.ch/~hairer/poly_geoint/week1.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week2.pdf
+
+https://www.unige.ch/~hairer/poly_geoint/week3.pdf
