@@ -461,7 +461,7 @@ Hamiltonian system.
 
 [Notebook: Symplectic integrator](notebooks/Symplectic.ipynb)
 
-[Lecture Note 16 (pdf)](lectures/228A_Lec16.pdf)
+[Lecture Note 16 (pdf)](lectures/Lec16.pdf)
 
 Some excellent reading materials given by Ernst Hairer:
 
@@ -470,3 +470,8 @@ https://www.unige.ch/~hairer/poly_geoint/week1.pdf
 https://www.unige.ch/~hairer/poly_geoint/week2.pdf
 
 https://www.unige.ch/~hairer/poly_geoint/week3.pdf
+
+## Lecture 17 (10/24)
+
+Hamiltonian system. 
+
