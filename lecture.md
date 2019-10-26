@@ -475,3 +475,4 @@ https://www.unige.ch/~hairer/poly_geoint/week3.pdf
 
 Hamiltonian system. 
 
+(Note is also in Lecture Note 16)
