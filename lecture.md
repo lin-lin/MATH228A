@@ -476,3 +476,30 @@ https://www.unige.ch/~hairer/poly_geoint/week3.pdf
 Hamiltonian system. 
 
 (Note is also in Lecture Note 16)
+
+Recent work on the interesting connection between optimization and symplectic
+integration:
+
+M. Betancourt, M.I. Jordan, A.C. Wilson, On Symplectic Optimization, (2018) http://arxiv.org/abs/1802.03653.
+
+
+
+## Lecture 18 (10/29)
+
+Hamiltonian system.  Mixed implicit-explicit methods.
+
+[Lecture Note 18 (pdf)](lectures/Lec18.pdf)
+
+S.M. Cox, P.C. Matthews, Exponential Time Differencing for Stiff Systems, J. Comput. Phys. 176 (2002) 430–455. 
+
+A.-K. Kassam, L.N. Trefethen, Fourth-Order Time-Stepping for Stiff PDEs, SIAM J. Sci. Comput. 26 (2005) 1214–1233.
+
+C. Moler, C. Van Loan, Nineteen Dubious Ways to Compute the Exponential of a Matrix, Twenty-Five Years Later, SIAM Rev. 45 (2003) 3–49.
+
+## Lecture 19 (10/31)
+
+Exponential time-differencing
+
+
+
+Collocation based RK method. 
