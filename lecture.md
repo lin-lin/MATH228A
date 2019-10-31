@@ -498,8 +498,43 @@ C. Moler, C. Van Loan, Nineteen Dubious Ways to Compute the Exponential of a Mat
 
 ## Lecture 19 (10/31)
 
-Exponential time-differencing
-
-
+Exponential time-differencing.
 
 Collocation based RK method. 
+
+
+
+**Reading**: [LeV] 11.6.
+
+[Lecture Note 19 (pdf)](lectures/Lec19.pdf)
+
+[Notebook: Gauss quadrature](notebooks/GaussQuadrature.ipynb)
+
+[Notebook: Exponential time differencing](notebooks/ExponentialTimeDifferencing.ipynb)
+
+[Notebook: Matrix exponentials](notebooks/Matrix_exponential.ipynb)
+
+## Lecture 20 (11/5)
+
+
+
+## Lecture 21 (11/7)
+
+
+
+## Lecture 22 (11/12)
+
+
+
+## Lecture 23 (11/14)
+
+
+
+## Lecture 24 (11/19)
+
+## Lecture 25 (11/21)
+
+## Lecture 26 (11/26)
+
+## Lecture 27 (12/3)
+
