@@ -516,6 +516,20 @@ Collocation based RK method.
 
 ## Lecture 20 (11/5)
 
+Collocation method. Consistency
+
+[Lecture Note 20 (pdf)](lectures/Lec20.pdf)
+
+**Reading**: [Ise] 3.1-3.4 (Gauss quadrature and collocation method), [Hai] I.14 (Alekseev-Grobner theorem)
+
+Gauss quadrature. Lanczos method.
+
+[D. Levy's notes on Gauss quadrature](others/GaussianQuad.pdf)
+
+[G. Golub, G. Meurant, Matrices, moments and quadrature, (1993)](others/GM93.pdf)
+
+[G. Golub, J.H. Welsch, Calculation of Gauss Quadrature Rules, (1968) 221–230](others/GM68.pdf)
+
 
 
 ## Lecture 21 (11/7)
