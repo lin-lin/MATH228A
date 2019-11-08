@@ -534,11 +534,21 @@ Gauss quadrature. Lanczos method.
 
 ## Lecture 21 (11/7)
 
+Collocation method. Consistency
 
+[Lecture Note 21 (pdf)](lectures/Lec21.pdf)
+
+**Reading**: [Ise] 3.1-3.4 (Gauss quadrature and collocation method), [Hai] I.14 (Alekseev-Grobner theorem)
 
 ## Lecture 22 (11/12)
 
+Krylov methods 
 
+**Reading**: 
+
+[Lev]4.1-4.5 [Saa] 6.5-6.12
+
+[Notebook: Krylov 2D example](notebooks/Krylov2D.ipynb)
 
 ## Lecture 23 (11/14)
 
