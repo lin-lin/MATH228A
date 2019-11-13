@@ -544,6 +544,8 @@ Collocation method. Consistency
 
 Krylov methods 
 
+[Lecture Note 22 (pdf)](lectures/Lec22.pdf)
+
 **Reading**: 
 
 [Lev]4.1-4.5 [Saa] 6.5-6.12
