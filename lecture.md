@@ -550,6 +550,8 @@ Krylov methods
 
 [Notebook: Krylov 2D example](notebooks/Krylov2D.ipynb)
 
+[Notebook: Krylov Helmholtz equation](notebooks/KrylovHelmholtz.ipynb)
+
 ## Lecture 23 (11/14)
 
 
