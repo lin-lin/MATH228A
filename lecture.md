@@ -556,7 +556,9 @@ Krylov methods
 
 ## Lecture 23 (11/14)
 
+Krylov methods 
 
+[Lecture Note 23 (pdf)](lectures/Lec23.pdf)
 
 ## Lecture 24 (11/19)
 
