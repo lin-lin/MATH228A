@@ -580,11 +580,13 @@ Preconditioning
 
 [Lecture Note 26 (pdf)](lectures/Lec26.pdf)
 
-
+[Wen Shen's notes on convergence of CG (pdf)](others/CG_Chebyshev.pdf) (in particular, detailed derivation of the $\sqrt{\kappa}$ convergence using Chebyshev polynomial) 
 
 ## Lecture 27 (12/3)
 
 Sparse direction method
 
 [Lecture Note 27 (pdf)](lectures/Lec27.pdf)
+
+[Notebook: Sparse direct methods](notebooks/SparseDirect.ipynb)
 
