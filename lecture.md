@@ -576,5 +576,15 @@ Krylov methods
 
 ## Lecture 26 (11/26)
 
+Preconditioning
+
+[Lecture Note 26 (pdf)](lectures/Lec26.pdf)
+
+
+
 ## Lecture 27 (12/3)
+
+Sparse direction method
+
+[Lecture Note 27 (pdf)](lectures/Lec27.pdf)
 
