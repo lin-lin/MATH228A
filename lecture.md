@@ -590,3 +590,8 @@ Sparse direction method
 
 [Notebook: Sparse direct methods](notebooks/SparseDirect.ipynb)
 
+## Lecture 28 (12/10)
+
+Sparse direction method
+
+[Lecture Note 28 (pdf)](lectures/Lec28.pdf)
